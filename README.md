@@ -1,4 +1,11 @@
-# Habana SynapseAI  
+# Habana SynapseAI Roadmap
+
+The repository is for communicating SynapseAI's public roadmap. 
+
+We're experimenting with the format, and will be iterating on it.  If you have any questions or feedback about the items on the roadmap or the format, please share on our community forum at https://forum.habana.ai/
+
+
+# About SynapseAI
 
 The SynapseAI software suite is designed to facilitate high-performance DL training and inference on Habana’s Gaudi and Goya deep learning accelerators. 
 
