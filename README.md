@@ -2,6 +2,8 @@
 
 The repository is for communicating SynapseAI's public roadmap. 
 
+Gaudi reference models roadmap: https://github.com/HabanaAI/synapseai-roadmap/projects/1
+
 We're experimenting with the format, and will be iterating on it.  If you have any questions or feedback about the items on the roadmap or the format, please share on our community forum at https://forum.habana.ai/
 
 
